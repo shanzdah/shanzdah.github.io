@@ -10,3 +10,7 @@ h1, h2, h3, h4, h5, h6{
 a{
 	color: #8d8c84 important!;
 }
+
+.card-header{
+	color: #a55a41 important!; 	
+}
