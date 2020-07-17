@@ -2,3 +2,11 @@
 	background-color: transparent !important;
 	border: none !important;
 }
+
+h1, h2, h3, h4, h5, h6{
+	color: #a55a41 important!; 
+}
+
+a{
+	color: #8d8c84 important!;
+}
